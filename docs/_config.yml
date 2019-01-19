@@ -3,4 +3,5 @@ title: My website
 # Short description of your site
 description: A virtual proof that name is awesome!
 
+exclude: [assets]
 keep_files: [assets]
