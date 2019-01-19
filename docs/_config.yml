@@ -3,4 +3,4 @@ title: My website
 # Short description of your site
 description: A virtual proof that name is awesome!
 
-keep_files: [myTest.Rmd]
+keep_files: [assets]
